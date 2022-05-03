@@ -1,0 +1,17 @@
+C:\Users\DELL\source\repos\AlAhlyMomkn_API\AlAhlyMomkn.DAL\bin\Debug\net6.0\AlAhlyMomkn.DAL.deps.json
+C:\Users\DELL\source\repos\AlAhlyMomkn_API\AlAhlyMomkn.DAL\bin\Debug\net6.0\AlAhlyMomkn.DAL.runtimeconfig.json
+C:\Users\DELL\source\repos\AlAhlyMomkn_API\AlAhlyMomkn.DAL\bin\Debug\net6.0\AlAhlyMomkn.DAL.dll
+C:\Users\DELL\source\repos\AlAhlyMomkn_API\AlAhlyMomkn.DAL\bin\Debug\net6.0\ref\AlAhlyMomkn.DAL.dll
+C:\Users\DELL\source\repos\AlAhlyMomkn_API\AlAhlyMomkn.DAL\bin\Debug\net6.0\AlAhlyMomkn.DAL.pdb
+C:\Users\DELL\source\repos\AlAhlyMomkn_API\AlAhlyMomkn.DAL\obj\Debug\net6.0\AlAhlyMomkn.DAL.csproj.AssemblyReference.cache
+C:\Users\DELL\source\repos\AlAhlyMomkn_API\AlAhlyMomkn.DAL\obj\Debug\net6.0\AlAhlyMomkn.DAL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DELL\source\repos\AlAhlyMomkn_API\AlAhlyMomkn.DAL\obj\Debug\net6.0\AlAhlyMomkn.DAL.AssemblyInfoInputs.cache
+C:\Users\DELL\source\repos\AlAhlyMomkn_API\AlAhlyMomkn.DAL\obj\Debug\net6.0\AlAhlyMomkn.DAL.AssemblyInfo.cs
+C:\Users\DELL\source\repos\AlAhlyMomkn_API\AlAhlyMomkn.DAL\obj\Debug\net6.0\AlAhlyMomkn.DAL.csproj.CoreCompileInputs.cache
+C:\Users\DELL\source\repos\AlAhlyMomkn_API\AlAhlyMomkn.DAL\obj\Debug\net6.0\AlAhlyMomkn.DAL.dll
+C:\Users\DELL\source\repos\AlAhlyMomkn_API\AlAhlyMomkn.DAL\obj\Debug\net6.0\ref\AlAhlyMomkn.DAL.dll
+C:\Users\DELL\source\repos\AlAhlyMomkn_API\AlAhlyMomkn.DAL\obj\Debug\net6.0\AlAhlyMomkn.DAL.pdb
+C:\Users\DELL\source\repos\AlAhlyMomkn_API\AlAhlyMomkn.DAL\obj\Debug\net6.0\AlAhlyMomkn.DAL.genruntimeconfig.cache
+C:\Users\DELL\source\repos\AlAhlyMomkn_API\AlAhlyMomkn.DAL\bin\Debug\net6.0\AlAhlyMomkn.DTO.dll
+C:\Users\DELL\source\repos\AlAhlyMomkn_API\AlAhlyMomkn.DAL\bin\Debug\net6.0\AlAhlyMomkn.DTO.pdb
+C:\Users\DELL\source\repos\AlAhlyMomkn_API\AlAhlyMomkn.DAL\obj\Debug\net6.0\AlAhlyMomkn.DAL.csproj.CopyComplete

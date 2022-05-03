@@ -1,0 +1,36 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "498db2ab-84e0-4069-9986-5666f3cf326b": {
+      "ProjectGuid": "498db2ab-84e0-4069-9986-5666f3cf326b",
+      "DisplayName": "AlAhlyMomkn.Services",
+      "ColorIndex": 0
+    },
+    "d382fcbd-15cd-49d2-899d-dd45bfdcbffa": {
+      "ProjectGuid": "d382fcbd-15cd-49d2-899d-dd45bfdcbffa",
+      "DisplayName": "AlAhlyMomkn_API",
+      "ColorIndex": 1
+    },
+    "379c1347-2060-4c4b-81ae-e046705f34e5": {
+      "ProjectGuid": "379c1347-2060-4c4b-81ae-e046705f34e5",
+      "DisplayName": "AlAhlyMomkn.DTO",
+      "ColorIndex": 2
+    },
+    "fd90ddd6-7c21-4e32-8e1f-0660f515fd57": {
+      "ProjectGuid": "fd90ddd6-7c21-4e32-8e1f-0660f515fd57",
+      "DisplayName": "AlAhlyMomkn.DAL",
+      "ColorIndex": 3
+    },
+    "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3": {
+      "ProjectGuid": "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3",
+      "DisplayName": "Miscellaneous Files",
+      "ColorIndex": -1
+    },
+    "e842bd69-e6fe-4690-a79e-c6676621d326": {
+      "ProjectGuid": "e842bd69-e6fe-4690-a79e-c6676621d326",
+      "DisplayName": "AlAhlyMomkn.Repository",
+      "ColorIndex": 4
+    }
+  },
+  "NextColorIndex": 5
+}

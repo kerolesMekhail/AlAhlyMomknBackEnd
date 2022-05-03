@@ -1,0 +1,15 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net6.0</TargetFramework>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\AlAhlyMomkn.DAL\AlAhlyMomkn.DAL.csproj" />
+    <ProjectReference Include="..\AlAhlyMomkn.DTO\AlAhlyMomkn.DTO.csproj" />
+    <ProjectReference Include="..\AlAhlyMomkn.Repository\AlAhlyMomkn.Repository.csproj" />
+  </ItemGroup>
+
+</Project>
